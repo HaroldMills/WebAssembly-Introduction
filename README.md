@@ -1,2 +1,2 @@
 # WebAssembly-Introduction
-Slides and code from January 2018 Ithaca Web People talk about WebAssembly.
+This repository contains slides and code from an introduction to WebAssembly I presented at the Ithaca Web People meeting on January 2, 2018.
